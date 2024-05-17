@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Fruit-app/static/js/main.dbf212c9.js",
+    "index.html": "/Fruit-app/index.html",
+    "main.dbf212c9.js.map": "/Fruit-app/static/js/main.dbf212c9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dbf212c9.js"
+  ]
+}
